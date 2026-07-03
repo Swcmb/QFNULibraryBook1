@@ -1,0 +1,6 @@
+requests
+pyyaml
+pycryptodome
+opencv-python-headless
+numpy
+tenacity
